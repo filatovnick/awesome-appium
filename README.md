@@ -14,10 +14,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Clients](#clients)
 - [Inspectors](#inspectors)
 - [Tutorials](#tutorials)
+- [Appium Pro](#become-an-appium-pro)
 - [Blogs](#blogs)
 - [Workshops](#workshops)
-- [Cloud Solutions and Devops](#cloud-solutions-and-devops)
-- [Git Books](#gitbooks)
+- [Cloud and Docker Solutions](#cloud-and-docker-solutions)
+- [Git Books](#git-books)
+- [Test Frameworks](#test-frameworks)
 - [Community](#community)
 - [Tips](#tips)
 
@@ -41,23 +43,103 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector.
 - [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector.
 
+## Become an Appium Pro
+- [Seeding the iOS simulator with test photos](https://appiumpro.com/editions/1)
+- [Seeding an Android device with test photos](https://appiumpro.com/editions/2)
+- [Running arbitrary ADB commands via Appium](https://appiumpro.com/editions/3)
+- [Using Appium for Testing Mobile Web Apps](https://appiumpro.com/editions/4)
+- [Performance Testing of Android Apps](https://appiumpro.com/editions/5)
+- [Testing iOS App Upgrades](https://appiumpro.com/editions/6)
+- [Speeding Up Tests With Deep Links](https://appiumpro.com/editions/7)
+- [How to Find Elements in iOS (Not) By XPath](https://appiumpro.com/editions/8)
+- [Testing Android App Upgrades](https://appiumpro.com/editions/9)
+- [Anatomy of Logging in Appium](https://appiumpro.com/editions/10)
+- [Simulating SMS Messages on Android](https://appiumpro.com/editions/11)
+- [Capturing Performance Data for Native iOS Apps](https://appiumpro.com/editions/12)
+- [Switching Between iOS Apps During a Test](https://appiumpro.com/editions/13)
+- [How to Automate a Pop Rock Band](https://appiumpro.com/editions/14)
+- [Testing iOS Push Notifications](https://appiumpro.com/editions/15)
+- [Automating the Clipboard on iOS and Android](https://appiumpro.com/editions/16)
+- [Automating Cross-Platform Hybrid Apps](https://appiumpro.com/editions/17)
+- [Using Espresso With Appium](https://appiumpro.com/editions/18)
+- [Making Your Appium Tests Fast and Reliable, Part 1: Test Flakiness](https://appiumpro.com/editions/19)
+- [Making Your Appium Tests Fast and Reliable, Part 2: Finding Elements](https://appiumpro.com/editions/20)
+- [Making Your Appium Tests Fast and Reliable, Part 3: Waiting for App States](https://appiumpro.com/editions/21)
+- [Making Your Appium Tests Fast and Reliable, Part 4: Dealing With Unfindable Elements](https://appiumpro.com/editions/22)
+- [Making Your Appium Tests Fast and Reliable, Part 5: Setting Up App State](https://appiumpro.com/editions/23)
+- [Making Your Appium Tests Fast and Reliable, Part 6: Tuning Your Capabilities](https://appiumpro.com/editions/24)
+- [Making Your Appium Tests Fast and Reliable, Part 7: Disabling Animations](https://appiumpro.com/editions/25)
+- [Making Your Appium Tests Fast and Reliable, Part 8: Mocking External Services](https://appiumpro.com/editions/26)
+- [Making Your Appium Tests Fast and Reliable, Part 9: When Things Go Wrong](https://appiumpro.com/editions/27)
+- [Running Multiple Appium Tests in Parallel](https://appiumpro.com/editions/28)
+- [Automating Complex Gestures with the W3C Actions API](https://appiumpro.com/editions/29)
+- [iOS-Specific Touch Action Methods](https://appiumpro.com/editions/30)
+- [Automating Custom Alert Buttons on iOS](https://appiumpro.com/editions/31)
+- [Finding Elements By Image, Part 1](https://appiumpro.com/editions/32)
+- [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
+- [Simulating Hardware Keys And Key Events On Android](https://appiumpro.com/editions/34)
+- [Writing XPath Queries That Work](https://appiumpro.com/editions/35)
+- [Using The 'nativeWebTap' Capability](https://appiumpro.com/editions/36)
+- [Capturing Browser Errors and Logs in iOS Web/Hybrid Apps](https://appiumpro.com/editions/37)
+- [Capturing Browser Errors and Logs in Android Web/Hybrid Apps](https://appiumpro.com/editions/38)
+- [Early-Stage AI for Appium Test Automation](https://appiumpro.com/editions/39)
+- [How To Test On Real iOS Devices With Appium, Part 1](https://appiumpro.com/editions/40)
+- [How To Test Real iOS Devices With Appium, Part 2](https://appiumpro.com/editions/41)
+- [Simulating Incoming Phone Calls On Android](https://appiumpro.com/editions/42)
+- [How To Automatically Grant iOS App Permissions Using Appium](https://appiumpro.com/editions/43)
+- [Working With Web Components (Shadow DOM)](https://appiumpro.com/editions/44)
+- [How to Automate Siri Voice Commands Using Appium](https://appiumpro.com/editions/45)
+- [Sending Arbitrary Keystrokes With The Actions API](https://appiumpro.com/editions/46)
+- [Running Appium From Source (Or The Latest Beta)](https://appiumpro.com/editions/47)
+- [How To Flash Elements On Screen While Debugging Appium Tests](https://appiumpro.com/editions/48)
+- [How To Spread Some Holiday Cheer Using Appium](https://appiumpro.com/editions/49)
+- [Special Capabilities for Speeding up Android Test Initialization](https://appiumpro.com/editions/50)
+- [Calling Methods Inside Your App From Appium](https://appiumpro.com/editions/51)
+- [Automating Mac Apps with Appium](https://appiumpro.com/editions/52)
+- [Accessing Android Logcat Logs with Appium](https://appiumpro.com/editions/53)
+- [Using Appium With Selenium Grid](https://appiumpro.com/editions/54)
+- [Using Mobile Execution Commands to Continuously Stream Device Logs with Appium](https://appiumpro.com/editions/55)
+- [What Appium Users Need to Know about Android Activities and Intents](https://appiumpro.com/editions/56)
+- [How to Determine Element Locators For Mobile Web and Hybrid Apps](https://appiumpro.com/editions/57)
+- [How to Test on Headless Emulators and Simulators with Appium](https://appiumpro.com/editions/58)
+- [How to Automate Picker Wheel Controls](https://appiumpro.com/editions/59)
+- [How to Pick the Right Locator Strategy](https://appiumpro.com/editions/60)
+- [How to Accurately Select Webviews Using the fullContextList Capability](https://appiumpro.com/editions/61)
+- [Capturing iOS Simulator Network Traffic with Appium](https://appiumpro.com/editions/62)
+- [Capturing Android Emulator Network Traffic with Appium](https://appiumpro.com/editions/63)
+- [Validating Android Toast Messages](https://appiumpro.com/editions/64)
+- [Capturing Network Traffic in Java with Appium](https://appiumpro.com/editions/65)
+- [Automating System Apps with Appium](https://appiumpro.com/editions/66)
+- [Generating Touch Gestures to Zoom In and Out on Google Maps](https://appiumpro.com/editions/67)
+- [Automating Physical Buttons on iOS Devices](https://appiumpro.com/editions/68)
+- [Capturing Audio Output During Testing: Part 1](https://appiumpro.com/editions/69)
+- [Capturing Audio Output During Testing: Part 2](https://appiumpro.com/editions/70)
+- [Starting an Appium Server Programmatically Using AppiumServiceBuilder](https://appiumpro.com/editions/71)
+- [Simulating Slow Internet Connections on Android Emulators with Appium](https://appiumpro.com/editions/72)
+- [Working with Multile Webviews in Android Hybrid Apps](https://appiumpro.com/editions/73)
+- [Automating Custom IoT Devices With Appium, Part 1](https://appiumpro.com/editions/74)
+- [Automating Custom IoT Devices With Appium, Part 2](https://appiumpro.com/editions/75)
+- [Testing React Native Apps with Appium](https://appiumpro.com/editions/76)
+- [Optimizing WebDriverAgent Startup Performance](https://appiumpro.com/editions/77)
+- [Attaching Appium Clients to Existing Sessions](https://appiumpro.com/editions/78)
+- [Converting Java Tests to Kotlin](https://appiumpro.com/editions/79)
+- [Testing iOS Face ID with Appium](https://appiumpro.com/editions/80)
+- [Testing Windows Desktop Apps With Appium](https://appiumpro.com/editions/81)
+
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
 - [GURU99](http://www.guru99.com/introduction-to-appium.html) - Appium tutorial for beginners.
 - [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) - Appium tutorials.
 - [Testing Diaries](http://www.testingdiaries.com/appium-tutorial/) - Appium Tutorial for Complete Beginners.
 - [Appium Bootcamp](https://saucelabs.com/resources/articles/appium-bootcamp-chapter-1) - Appium Bootcamp by Sauce.
-- [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
-- [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
-- [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
 - [Appium Mobile Grid Setup](http://www.slideshare.net/justinison75/mobile-selenium-grid-setup) - The Mobile Grid – Getting Started for Android & iOS.
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016.
 
 ## Blogs
+ - [All about Appium Desired Capabilities](https://caps.cloudgrey.io/) - All about Appium's desired capabilities.
  - [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) - Appium Architecture, settings, etc (Updated)
  - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Architecture of Appium.
  - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress.
- - [Appium 1.5 TouchActions Example](https://medium.com/@scottdixon/appium-touch-examples-w-nodejs-ios-wd-ee2b9956aab1#.ve06j03ic) - Appium 1.5 touch example w/ NodeJS & WD - Scott Dixon.
  - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - Appium with Image Recognition - Simon Kaz.
  - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - Automate Android Actions using Appium - kkashyap1707.
  - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) - How to deal with Network Connection from Appium 4.0.0 - Elias Nogueira.
@@ -66,7 +148,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) Switching to a Dynamically Named Context Handle with Appium and Java - Kevin Berg.
  - [A Robot Should Be Running Your Appium Tests](https://medium.com/devs-foodit/iphone-automation-with-a-one-fingered-robot-a2936c840285#.l37adndb3) - How to run Appium Tests using Robots. - Dan Cuellar.
  - [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) - Automates building, deploying and gathering feedback for mobile apps - Stipe Kolovrat.
- - [Advance Appium Setup](https://help.testobject.com/docs/guides/appium-advanced-setup/) - Advanced Appium Test Setup with PageObject
  - [Android setup Linux](https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/) - From Zero To Appium: A How-To Guide For Configuring Appium With Android
  - [Useful Appium Series] (http://bitbar.com/tag/appium/) - Appium Tip Series
  - [Inspect iOS app's with Appium 1.6] (https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo) - The options of inspecting iOS 10 app with Appium 1.6
@@ -74,11 +155,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Appium + Mobile Game Testing](http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/) - MOBILE GAME TESTING – PART #2: UI AND FUNCTIONALITY + IMAGE RECOGNITION
  - [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) - WinAppDriver - Test any app with Appium's Selenium-like tests on Windows
  - [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - USING APPIUM FOR MOBILE GAME TESTING
+ - [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) - By KazuCocoa
+  - [Adding AI to Appium](https://medium.com/testdotai/adding-ai-to-appium-f8db38ea4fac) - By test.ai
+ 
 
 ## Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison.
 
-## Cloud Solutions & DevOps
+## Cloud and Docker Solutions
 - [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
 - [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
 - [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
@@ -89,6 +173,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma.
+
+## Test Frameworks 
+- [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
+- [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) - Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.
+- [coteafs-appium](https://github.com/WasiqB/coteafs-appium) - A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets.
+- [Optimus](https://github.com/testvagrant/optimusTemplate) - Cucumber based Mobile Automation Framework, which supports test parallelization.
+- [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
+- [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
 
 ## Community
 - [Discuss](https://discuss.appium.io)
